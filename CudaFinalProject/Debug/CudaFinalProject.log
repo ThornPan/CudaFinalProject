@@ -1,13 +1,13 @@
-﻿生成启动时间为 2016/7/14 11:56:52。
-     1>项目“E:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\CudaFinalProject.vcxproj”在节点 2 上(Clean 个目标)。
+﻿生成启动时间为 2016/7/18 17:00:26。
+     1>项目“F:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\CudaFinalProject.vcxproj”在节点 2 上(Clean 个目标)。
      1>CudaClean:
-         cmd.exe /C "C:\Users\Thorn\AppData\Local\Temp\tmpe9d140dafaff40c78a830e72864b6012.cmd"
-         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Software\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "E:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\kernel.cu" -clean
+         cmd.exe /C "C:\Users\Thorn\AppData\Local\Temp\tmp11135842ca6b4a54a9ca2b6edd863b30.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Software\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "F:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\kernel.cu" -clean
          
-         E:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Software\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "E:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\kernel.cu" -clean 
+         F:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Software\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "F:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\kernel.cu" -clean 
          kernel.cu
-     1>已完成生成项目“E:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\CudaFinalProject.vcxproj”(Clean 个目标)的操作。
+     1>已完成生成项目“F:\Study\CUDA\Projects\CudaFinalProject\CudaFinalProject\CudaFinalProject.vcxproj”(Clean 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.72
+已用时间 00:00:00.99
